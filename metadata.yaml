@@ -1,0 +1,39 @@
+_repo: Les-missionnaires-francais-au-Thibet_74962
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orléans, Henri d', Prince
+    aliases:
+    - Orleans, Henri d', Prince
+    - Orléans, Henri Philippe Marie, Prince d'
+    birthdate: 1867
+    deathdate: 1901
+    gutenberg_agent_id: '57743'
+    url: http://www.gutenberg.org/2009/agents/57743
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Prince_Henri_of_Orl%C3%A9ans
+    - https://fr.wikipedia.org/wiki/Henri_d%27Orl%C3%A9ans_(1867-1901)
+description: ''
+gutenberg_issued: '2024-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74962'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo.31924007570165
+pgterms:marc905: 20241217121250orlans
+pgterms:marc906: '1891'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bDe Soye et fils, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- China -- Tibet Autonomous Region'
+- !lcsh 'Missionaries, French'
+- !lcc 'BV'
+- !lcc 'DS'
+- GITenberg
+title: Les missionnaires français au Thibet
+url: http://www.gutenberg.org/ebooks/74962
