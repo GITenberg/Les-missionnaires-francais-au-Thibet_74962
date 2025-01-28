@@ -1,5 +1,8 @@
 _repo: Les-missionnaires-francais-au-Thibet_74962
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74962-h/images/cover.jpg
 creator:
   author:
     agent_name: Orléans, Henri d', Prince
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Prince_Henri_of_Orl%C3%A9ans
     - https://fr.wikipedia.org/wiki/Henri_d%27Orl%C3%A9ans_(1867-1901)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74962#Les-missionnaires-francais-au-Thibet
 gutenberg_issued: '2024-12-21'
 gutenberg_type: Text
 identifiers:
